@@ -1,0 +1,9 @@
+div.Indrapalum{
+    color: lawngreen;
+}
+body{
+    background-image: url(Indrapal.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
